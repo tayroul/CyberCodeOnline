@@ -38,7 +38,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} Bitcoin sẽ được gửi vào tài khoản Tập Đoàn và không thể lấy lại",
+ 	 	 	 	 	"trans": "${amount} Bitcoin sẽ được gửi vào tài khoản bang hội và không thể lấy lại",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
@@ -49,7 +49,7 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Nhập phương châm của Tập Đoàn",
+ 	 	 	 	 	 	"trans": "Nhập phương châm của bang hội",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
@@ -60,12 +60,12 @@
  	 	 	},
  	 	 	"updateImage": {
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Cập Nhật Ảnh Tập Đoàn",
+ 	 	 	 	 	"trans": "Cập Nhật Ảnh Bang Hội",
  	 	 	 	 	"eng": "Update Gang Image"
  	 	 	 	}
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Cấp độ Tập Đoàn",
+ 	 	 	 	"trans": "Cấp độ Bang Hội",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
@@ -105,7 +105,7 @@
  	 	 	},
  	 	 	"occupation": {
  	 	 	 	"noClan": {
- 	 	 	 	 	"trans": "Chưa có Tập Đoàn nào chiếm lĩnh khu vực này",
+ 	 	 	 	 	"trans": "Chưa có Bang Hội nào chiếm lĩnh khu vực này",
  	 	 	 	 	"eng": "No gang has occupied this area yet"
  	 	 	 	}
  	 	 	},
